@@ -40,6 +40,7 @@ function ProductDetails() {
       <p>The preferred choice of a vast range of acclaimed DJs. Punchy, bass-focused sound and high isolation. Sturdy headband and on-ear cushions suitable for live performance</p>
     </div>
  
+ 
     {/* {{  Product Configuration */}
     <div className="product-configuration">
  
