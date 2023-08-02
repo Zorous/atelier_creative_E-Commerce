@@ -1,0 +1,59 @@
+/* Custom CSS for the product details page */
+.product-details {
+    padding: 30px;
+  }
+  /* *{
+    border: 1px solid;
+  }
+   */
+  .product-image {
+    margin-bottom: 20px;
+  }
+  
+  .product-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .product-price {
+    font-size: 18px;
+    color: #ff9900;
+    margin-bottom: 15px;
+  }
+  
+  .product-description {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .quantity-controls {
+    margin-top: 30px;
+  }
+  
+  .quantity-heading {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .quantity-buttons button {
+    font-size: 18px;
+    padding: 5px 10px;
+    margin-right: 10px;
+  }
+  
+  .buy-now-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .buy-now-button:hover {
+    background-color: #0056b3;
+  }
+  

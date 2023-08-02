@@ -17,7 +17,6 @@ function App() {
   <Route path="/product-details/:slug" element={<ProductDetails />} />
 </Routes>
 </BrowserRouter>
-<Footer />
     </>
   )
 }
